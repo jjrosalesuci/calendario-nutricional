@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calendario-nutricional/static/css/main.bf1ea90a.css",
+    "main.js": "/calendario-nutricional/static/js/main.76f70ac4.js",
+    "static/js/453.042ad62b.chunk.js": "/calendario-nutricional/static/js/453.042ad62b.chunk.js",
+    "index.html": "/calendario-nutricional/index.html",
+    "main.bf1ea90a.css.map": "/calendario-nutricional/static/css/main.bf1ea90a.css.map",
+    "main.76f70ac4.js.map": "/calendario-nutricional/static/js/main.76f70ac4.js.map",
+    "453.042ad62b.chunk.js.map": "/calendario-nutricional/static/js/453.042ad62b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1ea90a.css",
+    "static/js/main.76f70ac4.js"
+  ]
+}
